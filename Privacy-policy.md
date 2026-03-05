@@ -1,43 +1,146 @@
-🔐 Privacy Policy for Im Compressor
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Last updated: 23 January 2026
+<title>Privacy Policy - Im Image Resize & Compress</title>
 
-Im Compressor (“we”, “our”, “us”) respects your privacy. This Privacy Policy explains how our mobile application Im Compressor collects, uses, and protects user information.
+<style>
 
-📱 Information We Collect
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f6f7fb;
+color:#333;
+line-height:1.6;
+}
 
-Im Compressor does NOT collect any personal information such as name, email address, phone number, or location.
-The app works offline and processes images/videos locally on your device only.
+header{
+background:#4a6cf7;
+color:white;
+padding:30px;
+text-align:center;
+}
 
-🗂 Media Access Permission
+.container{
+max-width:900px;
+margin:auto;
+background:white;
+padding:40px;
+margin-top:30px;
+border-radius:8px;
+box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
 
-Our app requires media permissions (such as images or videos) only to:
-Select images/videos for compression or resizing
-Save compressed files back to your device
+h1,h2{
+color:#222;
+}
 
-👉 We do not upload, store, or share your files to any server.
+footer{
+text-align:center;
+margin-top:40px;
+padding:20px;
+background:#111;
+color:#bbb;
+}
 
-☁️ Data Storage
+a{
+color:#4a6cf7;
+text-decoration:none;
+}
 
-All compressed images/videos remain on your device
-We do not back up or sync your data to the cloud
+</style>
+</head>
 
-🔗 Third-Party Services
+<body>
 
-Im Compressor does not use any third-party services that collect user data.
-(If in future ads/analytics added, this policy will be updated.)
+<header>
+<h1>Privacy Policy</h1>
+<p>Im Image Resize & Compress</p>
+</header>
 
-🔐 Data Security
+<div class="container">
 
-We value your trust. Since all processing happens locally, your data remains fully under your control.
+<p>
+This Privacy Policy explains how the application <b>Im Image Resize & Compress</b> collects,
+uses, and protects user information.
+</p>
 
-👶 Children’s Privacy
+<h2>Information Collection</h2>
 
-Im Compressor does not knowingly collect any information from children under the age of 13.
-🔄 Changes to This Policy
-We may update this Privacy Policy from time to time. Any changes will be reflected on this page.
+<p>
+This application does not collect personal information such as name, email,
+or phone number.
+</p>
 
-📧 Contact Us
+<p>
+The app only accesses images selected by the user in order to perform image
+compression or resizing features.
+</p>
 
-If you have any questions or suggestions about our Privacy Policy, feel free to contact us:
-Email: digitalhelpxyz@gmail.com
+<h2>Storage Permission</h2>
+
+<p>
+The application may request storage access in order to:
+</p>
+
+<ul>
+<li>Select images from your device</li>
+<li>Compress or resize images</li>
+<li>Save processed images back to your device</li>
+</ul>
+
+<p>
+All image processing happens locally on your device.
+</p>
+
+<h2>Third-Party Services</h2>
+
+<p>
+This application may use trusted third-party services such as Google Play
+Services or advertising providers that may collect limited information for
+analytics or advertising purposes.
+</p>
+
+<h2>Data Security</h2>
+
+<p>
+We value your trust in using our application. Images processed by the app
+remain on your device and are not uploaded to external servers.
+</p>
+
+<h2>Children's Privacy</h2>
+
+<p>
+This application does not knowingly collect personal information from children
+under the age of 13.
+</p>
+
+<h2>Changes to This Privacy Policy</h2>
+
+<p>
+We may update our Privacy Policy from time to time. Any changes will be posted
+on this page.
+</p>
+
+<h2>Contact Us</h2>
+
+<p>
+If you have any questions regarding this Privacy Policy, please contact us at:
+</p>
+
+<p><b>Email:</b> digitalhelpxyz@gmail.com</p>
+
+</div>
+
+<footer>
+
+<p>© 2026 Im Image Resize & Compress</p>
+
+</footer>
+
+</body>
+</html>
+```
